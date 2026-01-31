@@ -33,7 +33,3 @@ print(sqrt(2))
 meeting_time = random.randint(5, 9)
 print(f'Let\'s meet tomorrow at {meeting_time} pm.')
 
-
-area = float(input('Area of the square? '))
-side = sqrt(area)
-print(f'Side length of the square is {side}')
