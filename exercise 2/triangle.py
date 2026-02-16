@@ -1,4 +1,4 @@
-raws = 8
+raws = 6 
 
 for i in range(raws-1):
     for j in range(raws-i-1):   
