@@ -4,7 +4,7 @@
 try:
     user_data = input("Enter a number: ")
     number = float(user_data)
-    print(f'Inverse: {1 / number}')
+    print(f'Inversezl: {1 / number}')
 except ValueError:
     print(f'Invalid number: {user_data}')
 except ZeroDivisionError:
