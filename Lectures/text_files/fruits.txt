@@ -1,0 +1,5 @@
+
+f=open('fruits.txt')
+for row in f:
+    print(row, end='') # end='' prevents adding an extra newline character
+f.close()
