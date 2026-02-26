@@ -11,7 +11,7 @@ try:
 except FileNotFoundError:
     grade_book = dict()
 
-readingScores.read_scores(grade_book)
+#readingScores.read_scores(grade_book)
 
 with open(filename, 'w') as f:
     json.dump(grade_book, f)
