@@ -1,0 +1,152 @@
+﻿id;region;price;year;manufacturer;model;condition;cylinders;fuel;odometer;transmission;drive;size;type;paint_color;state
+7316617180;las vegas;28900;2014;tesla;model s;excellent;;electric;94000;automatic;rwd;;sedan;white;nv
+7316617541;houston;31983;2013;tesla;model s;;;electric;59056;automatic;rwd;full-size;sedan;;tx
+7316628516;los angeles;49985;2019;jaguar;i-pace;;;electric;8322;automatic;4wd;mid-size;SUV;black;ca
+7316644856;tampa bay area;33995;2015;tesla;model s 70;excellent;;electric;55210;automatic;rwd;;sedan;grey;fl
+7316647429;washington  DC;28990;2019;kia;niro ev ex wagon 4d;good;;electric;10965;automatic;fwd;;wagon;white;dc
+7316648448;madison;55995;2017;tesla;model x 75d;;other;electric;42989;automatic;4wd;;SUV;grey;wi
+7316649013;lynchburg;33261;2014;tesla;model s;excellent;other;electric;92050;other;rwd;full-size;sedan;blue;va
+7316652107;quad cities  IA/IL;17500;2017;chevrolet;volt;excellent;;electric;60000;automatic;;compact;hatchback;grey;il
+7316653500;cleveland;8000;1968;;Austin Countryman;good;other;electric;68000;automatic;fwd;sub-compact;SUV;white;oh
+7316658876;phoenix;19287;2019;nissan;leaf;;;electric;2698;automatic;fwd;;sedan;;az
+7316659961;fort collins / north CO;54750;2014;tesla;model s p85d;like new;other;electric;64750;automatic;4wd;full-size;sedan;red;co
+7316660154;chicago;59900;2016;tesla;model x;;;electric;52681;automatic;4wd;;SUV;red;il
+7316661292;reno / tahoe;29990;2013;tesla;model s sedan 4d;good;;electric;59613;other;rwd;;sedan;blue;ca
+7316661360;reno / tahoe;28990;2018;bmw;i3 s w/range extender;good;;electric;12514;other;rwd;;hatchback;blue;ca
+7316664734;phoenix;19287;2018;nissan;leaf;;;electric;18867;automatic;fwd;;sedan;;az
+7316666010;washington  DC;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;dc
+7316671372;SF bay area;31990;2019;kia;niro ev ex wagon 4d;good;;electric;8392;other;fwd;;wagon;;ca
+7316680942;washington  DC;28990;2018;bmw;i3 s w/range extender;good;;electric;12514;other;rwd;;hatchback;blue;dc
+7316680992;washington  DC;37590;2014;tesla;model s sedan 4d;good;;electric;63727;other;rwd;;sedan;;dc
+7316686061;minneapolis / st paul;29990;2013;tesla;model s sedan 4d;good;;electric;59613;other;rwd;;sedan;blue;mn
+7316686070;portland;28990;2019;kia;niro ev ex wagon 4d;good;;electric;10965;automatic;fwd;;wagon;white;or
+7316695872;atlanta;20952;2018;nissan;leaf;;;electric;20625;automatic;fwd;mid-size;hatchback;white;ga
+7316696577;atlanta;52900;2015;tesla;model sp90d;like new;;electric;40000;automatic;rwd;full-size;sedan;white;ga
+7316696872;los angeles;28590;2019;kia;niro ev ex wagon 4d;good;;electric;10230;other;fwd;;wagon;silver;ca
+7316696975;redding;29990;2013;tesla;model s sedan 4d;good;;electric;59613;other;rwd;;sedan;blue;ca
+7316702363;western massachusetts;29990;2013;tesla;model s sedan 4d;good;;electric;59613;other;rwd;;sedan;blue;ma
+7316702521;chicago;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;il
+7316702696;new york city;25590;2019;hyundai;ioniq plug-in hybrid;good;;electric;21536;other;fwd;;hatchback;white;ny
+7316707837;south florida;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;fl
+7316710081;palm springs;2800;2010;;Club cart 4vseater;excellent;other;electric;1000;automatic;;sub-compact;convertible;green;ca
+7316711522;palm springs;4400;2004;;Yamaha  4 seat;like new;other;electric;1000;automatic;;sub-compact;convertible;red;ca
+7316713349;palm springs;5199;2010;;club car precedent prec 48v;excellent;other;electric;1000;automatic;;sub-compact;convertible;blue;ca
+7316713665;jacksonville;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;fl
+7316716078;boise;9495;2015;fiat;500;;;electric;30671;automatic;fwd;;sedan;;id
+7316717213;palm springs;2800;2005;;Club car 2 seat;excellent;other;electric;1000;automatic;;sub-compact;convertible;white;ca
+7316719481;louisville;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ky
+7316719813;los angeles;1800;2017;chevrolet;volt premier;;;electric;33653;automatic;;;;;ca
+7316721033;seattle-tacoma;28999;2012;tesla;model s performance;;;electric;83530;automatic;rwd;;sedan;;wa
+7316731603;dallas / fort worth;23990;2017;audi;a4 ultra premium sedan 4d;good;;electric;19421;other;fwd;;sedan;blue;tx
+7316737494;phoenix;28990;2019;kia;niro ev ex wagon 4d;good;;electric;7666;other;fwd;;wagon;white;az
+7316750392;portland;228;2018;kia;soul ev ev auto;;;electric;18810;automatic;fwd;;sedan;;or
+7316753041;phoenix;15899;2016;bmw;i3;like new;4 cylinders;electric;37838;automatic;fwd;sub-compact;sedan;grey;az
+7316758149;SF bay area;22994;2018;chevrolet;bolt ev;;;electric;6895;automatic;fwd;mid-size;hatchback;red;ca
+7316762254;san diego;361;2013;tesla;model s performance;;;electric;95911;automatic;rwd;;sedan;;ca
+7316762587;albuquerque;18590;2019;nissan;leaf s hatchback 4d;good;;electric;19188;other;fwd;;hatchback;;nm
+7316768908;portland;25881;2020;nissan;leaf;;;electric;608;;fwd;;hatchback;black;or
+7316769385;los angeles;34343;2018;tesla;model 3;excellent;;electric;21833;automatic;;;sedan;black;ca
+7316777148;portland;193;2016;kia;soul ev 5dr wgn +;;;electric;32417;automatic;fwd;;sedan;;or
+7316786864;portland;219;2018;nissan;leaf s;;;electric;23802;manual;fwd;;hatchback;;or
+7316789380;denver;43495;2014;tesla;model s;excellent;;electric;47718;automatic;4wd;full-size;sedan;black;co
+7316792418;phoenix;43999;2016;cadillac;escalade;excellent;8 cylinders;electric;77204;automatic;rwd;;SUV;grey;az
+7316793938;boston;13500;2017;nissan;leaf sv;like new;other;electric;15000;other;fwd;mid-size;hatchback;silver;ma
+7316794271;kansas city  MO;6995;2012;nissan;leaf;excellent;;electric;57518;automatic;fwd;;hatchback;blue;ks
+7316794380;chicago;3100;2010;toyota;prius;;;electric;1;automatic;fwd;;sedan;;il
+7316797275;baltimore;74995;2016;tesla;model s;;;electric;27782;other;;;sedan;blue;md
+7316801699;phoenix;29999;2013;tesla;s;good;other;electric;61467;automatic;rwd;;sedan;blue;az
+7316804283;bakersfield;5995;2011;nissan;leaf;new;;electric;52396;automatic;fwd;mid-size;hatchback;silver;ca
+7316811585;north jersey;32995;2018;bmw;x5;;;electric;29215;automatic;4wd;;SUV;blue;nj
+7316811650;orange county;17500;2016;bmw;i3;;;electric;20075;automatic;rwd;;hatchback;silver;ca
+7316814918;orlando;30990;2013;tesla;model s performance sedan;good;;electric;92418;other;rwd;;sedan;;fl
+7316814948;charlotte;37590;2014;tesla;model s sedan 4d;good;;electric;63727;other;rwd;;sedan;;nc
+7316818670;SF bay area;17990;2017;volkswagen;egolf;;;electric;14220;automatic;;;;;ca
+7316827844;port huron;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;mi
+7316828983;SF bay area;6500;2013;nissan;leaf;excellent;;electric;59934;automatic;;;;white;ca
+7316833300;portland;14990;2017;chevrolet;bolt ev;;;electric;37600;automatic;fwd;;sedan;;or
+7316838250;portland;20997;2017;ford;fusion;;;electric;29546;automatic;;;sedan;black;or
+7316840632;portland;29750;2020;ford;fusion;;;electric;2753;automatic;;;sedan;black;or
+7316841009;winchester;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;va
+7316846033;orange county;9499;2016;fiat;500e;;;electric;5209;automatic;fwd;;hatchback;black;ca
+7316850882;portland;29850;2020;ford;fusion;;;electric;2264;automatic;;;sedan;red;or
+7316851615;portland;18772;2019;ford;fusion;;;electric;20826;automatic;;;sedan;;or
+7316853397;south coast;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ma
+7316862686;columbus;8000;1968;mini;cooper;good;other;electric;68000;other;fwd;sub-compact;SUV;white;oh
+7316862897;atlanta;29900;2012;tesla;s 85;good;other;electric;94210;automatic;rwd;full-size;hatchback;black;ga
+7316863385;dallas / fort worth;10000;2015;nissan;leaf s;good;other;electric;42644;automatic;fwd;mid-size;sedan;black;tx
+7316863679;tampa bay area;22995;2019;nissan;leaf s electric;excellent;other;electric;10623;automatic;fwd;sub-compact;hatchback;white;fl
+7316865917;denver;17990;2019;nissan;leaf s hatchback 4d;good;;electric;28805;other;fwd;;hatchback;white;co
+7316865936;grand rapids;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;mi
+7316870577;san diego;10000;2014;chevrolet;volt base;;;electric;88210;automatic;;;;;ca
+7316871706;frederick;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;md
+7316871904;phoenix;500;2017;fiat;500e;;;electric;100000;other;fwd;;other;custom;az
+7316877822;bend;15995;2017;volkswagen;egolf;like new;other;electric;4512;automatic;fwd;compact;hatchback;white;or
+7316878465;SF bay area;6840;2014;;Smart fortwo electric drive;;;electric;31127;automatic;rwd;sub-compact;hatchback;black;ca
+7316880151;los angeles;41700;2018;tesla;model 3;excellent;;electric;10000;other;rwd;;;blue;ca
+7316883750;binghamton;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ny
+7316884111;northwest CT;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ct
+7316885634;houston;8691;2014;ford;c-max;;;electric;88821;automatic;;;hatchback;blue;tx
+7316889789;phoenix;10991;2012;toyota;prius v three;good;4 cylinders;electric;136117;automatic;fwd;;hatchback;;az
+7316889902;las vegas;28590;2019;bmw;i3 base w/range extender;good;;electric;31179;other;rwd;;hatchback;white;nv
+7316895491;ft myers / SW florida;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;fl
+7316895571;nashville;18990;2018;nissan;leaf s hatchback 4d;good;;electric;30537;other;fwd;;hatchback;blue;tn
+7316895630;ann arbor;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;mi
+7316895777;reading;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;pa
+7316901423;toledo;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;oh
+7316905940;SF bay area;18495;2018;ford;focus electric base;;;electric;12029;automatic;fwd;;hatchback;black;ca
+7316907258;savannah / hinesville;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ga
+7316913892;pittsburgh;30990;2013;tesla;model s performance sedan;good;;electric;92418;other;rwd;;sedan;;pa
+7316915519;atlanta;69900;2015;tesla;model s p90d;like new;other;electric;14000;automatic;4wd;full-size;sedan;black;ga
+7316919213;central NJ;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;nj
+7316919353;baltimore;30990;2013;tesla;model s performance sedan;good;;electric;92418;other;rwd;;sedan;;md
+7316919376;SF bay area;17995;2015;toyota;prius plug-in;good;4 cylinders;electric;65889;automatic;fwd;;hatchback;;ca
+7316919387;SF bay area;17995;2015;toyota;prius plug-in;good;4 cylinders;electric;69631;automatic;fwd;;hatchback;;ca
+7316924797;saginaw-midland-baycity;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;mi
+7316924876;columbus;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ga
+7316925077;hudson valley;29990;2013;tesla;model s sedan 4d;good;;electric;59613;other;rwd;;sedan;blue;ny
+7316925178;rochester;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ny
+7316930319;atlanta;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ga
+7316930370;beaumont / port arthur;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;tx
+7316930526;space coast;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;fl
+7316930541;buffalo;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ny
+7316935546;hawaii;20995;2018;nissan;leaf sv hatchback 4d;excellent;other;electric;25825;automatic;fwd;;;red;hi
+7316935828;south bend / michiana;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;in
+7316939354;seattle-tacoma;8999;2016;kia;soul ev;;other;electric;50279;automatic;fwd;;wagon;silver;wa
+7316940001;st louis  MO;9595;2013;chevrolet;volt premium;like new;4 cylinders;electric;118011;automatic;fwd;sub-compact;hatchback;grey;il
+7316941330;sarasota-bradenton;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;fl
+7316941340;new york city;4000;2019;chevrolet;bolt ev premier;excellent;;electric;33000;other;;compact;hatchback;white;ny
+7316941369;charlotte;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;nc
+7316945228;albuquerque;8600;2015;chevrolet;spark ev 2lt hatchback;like new;other;electric;22970;automatic;fwd;compact;hatchback;blue;nm
+7316946843;new hampshire;30990;2013;tesla;model s performance sedan;good;;electric;92418;other;rwd;;sedan;;nh
+7316951035;spokane / coeur d'alene;42900;2019;tesla;model 3 blacked out standard range plus;;other;electric;23279;automatic;rwd;;sedan;black;id
+7316952167;jersey shore;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;nj
+7316952392;knoxville;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;tn
+7316957328;asheville;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;nc
+7316957433;rhode island;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ri
+7316957458;akron / canton;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;oh
+7316962366;cincinnati;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;oh
+7316967481;north jersey;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;nj
+7316967597;south jersey;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;nj
+7316969756;portland;91550;2020;tesla;model s performance;;;electric;17999;automatic;;;sedan;black;or
+7316970710;central NJ;40995;2013;tesla;model s;;;electric;4730;automatic;;;;;nj
+7316972449;detroit metro;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;mi
+7316977280;boston;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ma
+7316977389;nashville;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;tn
+7316977428;worcester / central MA;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ma
+7316977570;lehigh valley;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;pa
+7316982027;albany;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ny
+7316982060;outer banks;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;nc
+7316986631;memphis;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;tn
+7316986797;dayton / springfield;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;oh
+7316986856;oneonta;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ny
+7317000198;new york city;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;ny
+7317000387;new hampshire;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;nh
+7317000431;kalamazoo;59900;2020;tesla;y performance;like new;other;electric;23700;automatic;4wd;;SUV;blue;mi
+7317000441;columbia;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;sc
+7317000546;portland;17921;2018;nissan;leaf s;excellent;;electric;18797;automatic;fwd;;hatchback;grey;or
+7317003378;portland;39990;2019;tesla;model 3;excellent;other;electric;13325;automatic;rwd;compact;sedan;blue;or
+7317004892;pittsburgh;38990;2020;tesla;model 3 standard range;good;;electric;9665;other;;;sedan;white;pa
+7317017802;portland;44999;2014;tesla;model s p85d;;;electric;54893;automatic;4wd;;hatchback;;or
+7317031749;central NJ;39995;2014;tesla;model s;;;electric;45561;automatic;;;;;nj
+7317069752;seattle-tacoma;57991;2015;tesla;model s p85d 4dr liftbac;;;electric;16750;automatic;4wd;;sedan;;wa
+7317082299;seattle-tacoma;44991;2014;tesla;model s p85d 4dr liftbac;;;electric;46401;automatic;4wd;;sedan;;wa
