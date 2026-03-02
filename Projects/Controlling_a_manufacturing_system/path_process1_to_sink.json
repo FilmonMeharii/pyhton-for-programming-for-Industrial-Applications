@@ -1,0 +1,44 @@
+{
+  "name": "Process 1 to Sink path",
+  "description": "Move part from Process 1 to Sink",
+  "actions": [
+    {
+      "description": "Start at safe height above Process 1",
+      "setX": 450,
+      "setY": 200
+    },
+    {
+      "description": "Lower to Process 1",
+      "setX": 450,
+      "setY": 82
+    },
+    {
+      "description": "Pick up part",
+      "vacuum": 1
+    },
+    {
+      "description": "Lift to safe height",
+      "setX": 450,
+      "setY": 200
+    },
+    {
+      "description": "Move to above Sink",
+      "setX": 945,
+      "setY": 200
+    },
+    {
+      "description": "Lower to Sink",
+      "setX": 945,
+      "setY": 82
+    },
+    {
+      "description": "Release part",
+      "vacuum": 0
+    },
+    {
+      "description": "Lift to safe height",
+      "setX": 945,
+      "setY": 200
+    }
+  ]
+}
